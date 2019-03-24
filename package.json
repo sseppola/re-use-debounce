@@ -1,7 +1,7 @@
 {
   "name": "re-use-debounce",
   "version": "0.0.0",
-  "description": "Reuse lodash.debounce",
+  "description": "Reuse lodash debounce as React hook",
   "keywords": [
     "React",
     "hooks",

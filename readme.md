@@ -1,4 +1,4 @@
-# re-use-debounce [![Build Status](https://travis-ci.com/sseppola/re-use-debounce.svg?branch=master)](https://travis-ci.com/sseppola/re-use-debounce)
+# re-use-debounce [![Build Status](https://travis-ci.org/sseppola/re-use-debounce.svg?branch=master)](https://travis-ci.org/sseppola/re-use-debounce)
 
 > Reuse lodash debounce as React hook
 
