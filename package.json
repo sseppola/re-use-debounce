@@ -1,0 +1,48 @@
+{
+  "name": "re-use-debounce",
+  "version": "0.0.0",
+  "description": "Reuse lodash.debounce",
+  "keywords": [
+    "React",
+    "hooks",
+    "lodash",
+    "debounce"
+  ],
+  "author": "Sindre Seppola <sindre.seppola@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/debounce.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "peerDependencies": {
+    "lodash": ">=4.0.0",
+    "react": ">=16.8.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json",
+    "test": "jest --config jestconfig.json"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "24.0.11",
+    "@types/lodash": "4.14.123",
+    "@types/react": "16.8.8",
+    "jest": "24.5.0",
+    "lodash": "4.17.11",
+    "prettier": "1.16.4",
+    "react": "16.8.5",
+    "react-dom": "16.8.5",
+    "react-testing-library": "6.0.2",
+    "ts-jest": "24.0.0",
+    "tslint": "5.14.0",
+    "tslint-config-prettier": "1.18.0",
+    "typescript": "3.3.4000"
+  }
+}
