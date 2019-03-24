@@ -1,4 +1,4 @@
-# re-use-debounce [![Build Status](https://travis-ci.org/sseppola/re-use-debounce.svg?branch=master)](https://travis-ci.org/sseppola/re-use-debounce)
+# re-use-debounce ![npm](https://img.shields.io/npm/v/re-use-debounce.svg) [![Build Status](https://travis-ci.org/sseppola/re-use-debounce.svg?branch=master)](https://travis-ci.org/sseppola/re-use-debounce) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/re-use-debounce.svg) ![NPM](https://img.shields.io/npm/l/re-use-debounce.svg)
 
 > Reuse lodash debounce as React hook
 
