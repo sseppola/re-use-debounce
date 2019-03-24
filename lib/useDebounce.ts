@@ -9,7 +9,7 @@ export interface DebounceSettingsT {
 
 export type OnChangeFnT<V> = (updatedValue: V) => void;
 
-export function useDebounce<V>(
+export default function useDebounce<V>(
   value: V,
   onChange: OnChangeFnT<V>,
   delay: number,
