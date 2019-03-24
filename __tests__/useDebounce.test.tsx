@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { render } from 'react-testing-library';
-import { useDebounce, OnChangeFnT, DebounceSettingsT } from '../lib/useDebounce';
+import useDebounce, { OnChangeFnT, DebounceSettingsT } from '../lib/useDebounce';
 
 interface UsesHooksPropsT<V> {
   value: V;
